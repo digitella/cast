@@ -1,2 +1,2 @@
-# jtb2
+# cast
 GitHub Pages
